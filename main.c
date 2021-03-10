@@ -10,5 +10,4 @@ int main(int argc, char *argv[]) {
 	printf("Digite o segundo valor :\n");
 	scanf("%i",&b);
 	printf("Resultado: %i\n",a+b);
-	system("pause");
 }
